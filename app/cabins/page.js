@@ -1,5 +1,5 @@
 import CabinCard from "@/app/_components/CabinCard";
-import { getCabins } from "../_lib/data-service";
+import { getCabins } from "@/app/_lib/data-service";
 
 export default async function Page() {
   // CHANGE
